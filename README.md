@@ -1,4 +1,4 @@
-# Neighborhood-Map-React
+# Neighborhood-Map-React-Udacity-Project
 
 ## Overview:
 It's a single web app that display my favorite places to visit within the United States.
